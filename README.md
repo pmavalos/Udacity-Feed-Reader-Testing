@@ -3,7 +3,8 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 
 ## How to Run Appilcation
-*. Clone the repository using 
+*. Clone the repository using https://github.com/pmavalos/Udacity-Feed-Reader-Testing
+
 *. Open the index.html file in a browser and check results on Jasmine section.
 
 
